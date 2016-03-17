@@ -21,6 +21,12 @@ Then add **hubot-google-sheetsu** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot sheetsu cell B 5
+hubot>> "Alan Turing"
 ```
+## License
+
+Copyright (c) 2016 Himank Yadav. Released under the MIT License. See
+[LICENSE.md][license] for details.
+
+[license]: LICENSE.md
