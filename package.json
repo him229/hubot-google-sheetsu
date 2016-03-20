@@ -1,6 +1,6 @@
 {
   "name": "hubot-google-sheetsu",
-  "description": "Allows you to connect and consume a Google Spreadsheet",
+  "description": "Allows you to connect to and consume a Google Spreadsheet",
   "version": "0.0.0",
   "author": "Himank Yadav <him229@gmail.com>",
   "license": "MIT",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-google-sheetsu.git"
+    "url": "git://github.com/him229/hubot-google-sheetsu.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-google-sheetsu/issues"
+    "url": "https://github.com/him229/hubot-google-sheetsu/issues"
   },
 
   "dependencies": {
