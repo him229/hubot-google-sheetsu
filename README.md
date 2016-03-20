@@ -1,6 +1,6 @@
 # hubot-google-sheetsu
 
-A hubot script that allows you to connect to and consume a Google Spreadsheet
+A hubot script that allows you to connect to and consume a Google Spreadsheet.
 
 See [`src/google-sheetsu.coffee`](src/google-sheetsu.coffee) for full documentation.
 
