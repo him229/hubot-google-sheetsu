@@ -1,5 +1,6 @@
 # hubot-google-sheetsu
 
+[![NPM](https://nodei.co/npm/hubot-google-sheetsu.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hubot-google-sheetsu/)
 [![NPM](https://nodei.co/npm-dl/hubot-google-sheetsu.png?height=3)](https://nodei.co/npm/hubot-google-sheetsu/)
 
 A hubot script that allows you to connect to and consume a Google Spreadsheet.
